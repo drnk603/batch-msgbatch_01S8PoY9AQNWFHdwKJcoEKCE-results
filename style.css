@@ -1856,7 +1856,6 @@ address {
 }
 
 .g-4 {
-  gap: var(--space-lg);
 }
 
 .u-sr-only {
@@ -2043,5 +2042,9 @@ address {
 
   .mt-3.mt-sm-0 {
     margin-top: var(--space-md);
+  }
+
+  .g-4 {
+    gap: var(--space-lg);
   }
 }
